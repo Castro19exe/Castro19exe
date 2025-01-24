@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=castro19exe&show_icons=true&locale=en" alt="castro19exe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=castro19exe&" alt="castro19exe" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=castro19exe)](https://git.io/streak-stats)
